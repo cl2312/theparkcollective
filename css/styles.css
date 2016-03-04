@@ -1,0 +1,26 @@
+body {
+	width: 560px;
+	margin: 40px auto 40px auto;
+}
+
+h1{
+	font-family: "Times New Roman", Times, serif;
+	margin-bottom: 5px;
+}
+
+.italics{
+	font-style: italic;
+}
+
+.bandheader{
+	font-family: 'Garamond', 'Georgia', serif;
+	font-weight: bold;
+}
+
+.bioname{
+	font-weight: bold;
+}
+
+.bio{
+	margin: 10px 0 10px 0;
+}
